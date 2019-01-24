@@ -1,2 +1,0 @@
-# davidhackinglab
-Hacking Tool
